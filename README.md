@@ -1,21 +1,15 @@
-# Yolo-For-Medical
-
 # YOLOv8: Introduction to Object Detection, Classification, and Segmentation
 
 Welcome to our Computer Vision project where we explore YOLOv8, a state-of-the-art algorithm for object detection, classification, and segmentation. YOLO (You Only Look Once) is renowned for its efficiency and accuracy, enabling real-time object detection in a single pass. 🎯
 
 ## Project Overview 🌟
 
-This project delves into the capabilities of YOLOv8, leveraging its versatility and advanced features for various computer vision tasks. 
-
-### Key Modifications in YOLOv8
-- **New Backbone Network:** Utilizes Darknet-53 for enhanced feature extraction.
-- **Anchor-Free Detection Head:** Predicts object centers directly, improving detection accuracy and speed.
-- **New Loss Function:** Optimized for better performance in detection and segmentation tasks.
+This project delves into the capabilities of YOLOv8, leveraging its versatility and advanced features for various computer vision tasks.
 
 ### Why YOLOv8?
 YOLOv8 is not only efficient for object detection but also provides robust support for:
 - **Classification:** Categorizing objects into predefined classes.
+- **Detection:** Identifying objects and their locations in images.
 - **Segmentation:** Precisely outlining objects in an image.
 
 This makes YOLOv8 an excellent tool for a wide range of computer vision applications, including medical imaging, where detecting and classifying anomalies and diseases is critical.
